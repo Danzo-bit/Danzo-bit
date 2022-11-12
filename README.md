@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://c4.wallpaperflare.com/wallpaper/62/930/487/bart-face-art-illust-wallpaper-preview.jpg">
   <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Bart_Simpson_200px.png/170px-Bart_Simpson_200px.png">
-  <img alt="Shows an illustration of bart simpson." src=https://c4.wallpaperflare.com/wallpaper/62/930/487/bart-face-art-illust-wallpaper-preview.jpg">
+  <img alt="Shows an illustration of bart simpson." >
 </picture>
 
 - 🔭 I’m currently working on a private flutter project
