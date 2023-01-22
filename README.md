@@ -6,12 +6,12 @@
   <img alt="Shows an illustration of bart simpson." >
 </picture>
 
-- 🔭 I’m currently working on a private flutter project
-- 🌱 I’m currently learning flutter
+- 🔭 I’m currently working @semicolonAfricaLabs
+- 🌱 I’m currently learning ReactNative
 - 💬 Ask me about anything flutter related
 - 📫 How to reach me: my mail on the profile😒
 - 😄 Pronouns: HE/HIS/HIM
-- ⚡ Fun fact: Life is a test run for a program we all volunteered for!!! and we are failing.
+- ⚡ Fun fact: I love 🍑.
 
 <!--
 **Danzo-bit/Danzo-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
