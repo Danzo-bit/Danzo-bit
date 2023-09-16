@@ -6,7 +6,7 @@
   <img alt="Shows an illustration of bart simpson." >
 </picture>
 
-- 🔭 I’m currently working @semicolonAfricaLabs
+- 🔭 I’m currently working @Rank Capitals, building Moni
 - 🌱 I’m currently learning ReactNative
 - 💬 Ask me about anything flutter related
 - 📫 How to reach me: my mail on the profile😒
