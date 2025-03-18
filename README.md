@@ -6,7 +6,7 @@
   <img alt="Shows an illustration of bart simpson." >
 </picture>
 
-- 🔭 I’m currently working @Rank Capitals, building Moni and Teller by Moni
+- 🔭 I’m currently working @SBSC, building Software Products
 - 🌱 I’m currently learning ReactNative
 - 💬 Ask me about anything 
 - 📫 How to reach me: my mail on the profile😒
